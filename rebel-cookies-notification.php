@@ -14,7 +14,7 @@ Plugin Name: Rebel Cookies Notification
 Plugin URI: http://wordpress.org/plugins/
 Description: This plugin was created by Rebel to notify users that cookies are being set but not mis-used.
 Author: Anthony Broadbent   
-Version: 1.1
+Version: 1.2
 Author URI: http://www.rebel.co.uk
 rebel-cookies-notification
 */
